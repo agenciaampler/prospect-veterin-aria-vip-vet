@@ -1,0 +1,43 @@
+{
+    "prospect_id": "veterin-aria-vip-vet",
+    "company_name": "Veterinária Vip Vet",
+    "site_variant": "",
+    "assets": {
+        "studio-hero": {
+            "file": "assets/images/studio-source.webp",
+            "width": 1536,
+            "height": 1024,
+            "ratio": "3:2",
+            "role": "Fotografia master de estudio",
+            "required": true
+        },
+        "hero-mobile": {
+            "file": "assets/images/hero-mobile.webp",
+            "width": 1536,
+            "height": 2048,
+            "ratio": "3:4",
+            "role": "Hero mobile",
+            "required": true
+        },
+        "hero-desktop": {
+            "file": "assets/images/hero-desktop.webp",
+            "width": 1920,
+            "height": 1080,
+            "ratio": "16:9",
+            "role": "Hero desktop",
+            "required": true
+        },
+        "og-image": {
+            "file": "assets/images/og-image.webp",
+            "width": 1200,
+            "height": 630,
+            "ratio": "1.91:1",
+            "role": "Preview social e WhatsApp",
+            "required": true
+        }
+    },
+    "generation": {
+        "standard": "estúdio publicitário premium",
+        "single_source": "studio-source.webp gera os recortes derivados"
+    }
+}
