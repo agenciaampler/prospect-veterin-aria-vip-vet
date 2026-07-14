@@ -1,0 +1,17 @@
+{
+    "schema_version": "1.0",
+    "actions": [
+        {
+            "id": "contact-clinic",
+            "name": "Falar com a clínica",
+            "description": "Abre o canal de contato da clínica para orientação ou agendamento.",
+            "type": "external_link"
+        },
+        {
+            "id": "open-route",
+            "name": "Abrir rota",
+            "description": "Abre a localização da clínica no Google Maps.",
+            "type": "external_link"
+        }
+    ]
+}
